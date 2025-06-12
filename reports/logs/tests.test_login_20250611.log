@@ -1,0 +1,35 @@
+2025-06-11 11:36:00,051 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 11:36:01,210 - tests.test_login - INFO - Successfully logged out
+2025-06-11 11:36:04,282 - tests.test_login - INFO - Login successful, welcome message: Welcome Sherry!
+2025-06-11 11:36:05,523 - tests.test_login - INFO - Successfully logged out
+2025-06-11 11:36:08,239 - tests.test_login - ERROR - The test failed: The expected error message contains 'Login failed, please input correct username or password. ', actual: 'Invalid username or password. Signon failed.'
+assert 'Login failed, please input correct username or password. ' in 'Invalid username or password. Signon failed.'
+2025-06-11 11:36:11,201 - tests.test_login - INFO - Login failed, error message: Invalid username or password. Signon failed.
+2025-06-11 11:36:23,981 - tests.test_login - ERROR - Test execution error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#Content ul.messages li") to be visible
+
+2025-06-11 16:03:34,260 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 16:03:35,478 - tests.test_login - INFO - Successfully logged out
+2025-06-11 16:29:20,049 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 16:29:21,276 - tests.test_login - INFO - Successfully logged out
+2025-06-11 16:29:24,152 - tests.test_login - INFO - Login successful, welcome message: Welcome Sherry!
+2025-06-11 16:29:25,839 - tests.test_login - INFO - Successfully logged out
+2025-06-11 16:29:28,529 - tests.test_login - ERROR - The test failed: The expected error message contains 'Login failed, please input correct username and password. ', actual: 'Invalid username or password. Signon failed.'
+assert 'Login failed, please input correct username and password. ' in 'Invalid username or password. Signon failed.'
+2025-06-11 16:29:41,353 - tests.test_login - ERROR - Test execution error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("#Content ul.messages li") to be visible
+
+2025-06-11 16:33:07,914 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 16:33:09,080 - tests.test_login - INFO - Successfully logged out
+2025-06-11 16:33:11,796 - tests.test_login - ERROR - The test failed: The expected error message contains 'Login failed, please input correct username and password. ', actual: 'Invalid username or password. Signon failed.'
+assert 'Login failed, please input correct username and password. ' in 'Invalid username or password. Signon failed.'
+2025-06-11 16:40:03,032 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 16:40:04,256 - tests.test_login - INFO - Successfully logged out
+2025-06-11 16:40:06,963 - tests.test_login - ERROR - The test failed: The expected error message contains 'Login failed, please input correct username and password. ', actual: 'Invalid username or password. Signon failed.'
+assert 'Login failed, please input correct username and password. ' in 'Invalid username or password. Signon failed.'
+2025-06-11 16:42:07,603 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 16:42:08,848 - tests.test_login - INFO - Successfully logged out
+2025-06-11 17:09:07,539 - tests.test_login - INFO - Login successful, welcome message: Welcome Angel!
+2025-06-11 17:09:08,363 - tests.test_login - INFO - Successfully logged out

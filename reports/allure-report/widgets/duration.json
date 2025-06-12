@@ -1,0 +1,1 @@
+[{"uid":"846cd95a4a1026a8","name":"Successful user registration","time":{"start":1749715428490,"stop":1749715432413,"duration":3923},"status":"passed","severity":"normal"},{"uid":"1a19bf800ab2e2c2","name":"TC_LOGIN_001: Valid login with correct credentials","time":{"start":1749715424446,"stop":1749715428130,"duration":3684},"status":"passed","severity":"normal"}]

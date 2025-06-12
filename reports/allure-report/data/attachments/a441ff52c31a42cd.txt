@@ -1,0 +1,45 @@
+INFO - Starting test: TC_REG_001 - Successful user registration
+INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?newAccountForm=
+INFO - Registering user: Autotest_cbde0a5a
+INFO - Clear input[name='username']
+INFO - In input[name='username'] input: Autotest_cbde0a5a
+INFO - Clear input[name='password']
+INFO - In input[name='password'] input: TestPass123
+INFO - Clear input[name='repeatedPassword']
+INFO - In input[name='repeatedPassword'] input: TestPass123
+INFO - Clear input[name='account.firstName']
+INFO - In input[name='account.firstName'] input: Autotest_cbde0a5a
+INFO - Clear input[name='account.lastName']
+INFO - In input[name='account.lastName'] input: User
+INFO - Clear input[name='account.email']
+INFO - In input[name='account.email'] input: testuser@example.com
+INFO - Clear input[name='account.phone']
+INFO - In input[name='account.phone'] input: 1234567890
+INFO - Clear input[name='account.address1']
+INFO - In input[name='account.address1'] input: 123 Test St
+INFO - Clear input[name='account.city']
+INFO - In input[name='account.city'] input: Test City
+INFO - Clear input[name='account.state']
+INFO - In input[name='account.state'] input: TS
+INFO - Clear input[name='account.zip']
+INFO - In input[name='account.zip'] input: 12345
+INFO - Clear input[name='account.country']
+INFO - In input[name='account.country'] input: USA
+INFO - Click element: input[name='newAccount']
+INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+INFO - Clear input[name='username']
+INFO - Clear input[name='username']
+INFO - In input[name='username'] input: Autotest_cbde0a5a
+INFO - In input[name='username'] input: Autotest_cbde0a5a
+INFO - Clear input[name='password']
+INFO - Clear input[name='password']
+INFO - In input[name='password'] input: TestPass123
+INFO - In input[name='password'] input: TestPass123
+INFO - Click element: input[name='signon']
+INFO - Click element: input[name='signon']
+INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+INFO - Get element text: Welcome Autotest_cbde0a5a!
+INFO - Get element text: Welcome Autotest_cbde0a5a!
+INFO - Login successful with new user: Autotest_cbde0a5a

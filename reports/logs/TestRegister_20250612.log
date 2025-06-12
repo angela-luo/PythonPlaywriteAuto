@@ -1,0 +1,15 @@
+2025-06-12 11:50:37,803 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 11:50:42,003 - TestRegister - INFO - Login successful with new user: Autotest_0b28a981
+2025-06-12 15:34:20,108 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 15:34:24,125 - TestRegister - INFO - Login successful with new user: Autotest_6109d8fe
+2025-06-12 15:43:34,927 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 15:43:38,965 - TestRegister - INFO - Login successful with new user: Autotest_16c05241
+2025-06-12 15:50:27,439 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 15:50:31,578 - TestRegister - INFO - Login successful with new user: Autotest_f97b8059
+2025-06-12 15:50:31,925 - TestRegister - INFO - Starting test: TC_REG_002 - Registration with password mismatch
+2025-06-12 15:53:04,026 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 15:53:08,337 - TestRegister - INFO - Login successful with new user: Autotest_bd719c2c
+2025-06-12 15:58:34,008 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 15:58:38,173 - TestRegister - INFO - Login successful with new user: Autotest_6abe2a5a
+2025-06-12 16:03:48,490 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-12 16:03:52,411 - TestRegister - INFO - Login successful with new user: Autotest_cbde0a5a

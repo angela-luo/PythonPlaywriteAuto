@@ -1,0 +1,69 @@
+# File: data/register_data.yaml
+# Creator: Angel
+# Created: 2025-06-10
+# Description: Test data for user registration
+
+test_cases:
+  - test_id: "TC_REG_001"
+    test_level: "P0"
+    test_title: "Successful user registration"
+    password: "TestPass123"
+    confirm_password: "TestPass123"
+    first_name: "Autotest"
+    last_name: "User"
+    email: "testuser@example.com"
+    phone: "1234567890"
+    address1: "123 Test St"
+    city: "Test City"
+    state: "TS"
+    zip: "12345"
+    country: "USA"
+    expected: "Your account has been created. Please log in."
+
+#  - test_id: "TC_REG_002"
+#    test_level: "P1"
+#    test_title: "Registration with password mismatch"
+#    password: "Pass123"
+#    confirm_password: "Pass124"
+#    first_name: "Autotest"
+#    last_name: "User"
+#    email: "testuser@example.com"
+#    phone: "1234567890"
+#    address1: "123 Test St"
+#    city: "Test City"
+#    state: "TS"
+#    zip: "12345"
+#    country: "USA"
+#    expected: "Passwords do not match."
+
+#  - test_id: TC_REG_003
+#    test_level: P1
+#    test_title: "Registration with missing required field"
+#    password: "Pass123"
+#    confirm_password: "Pass123"
+#    first_name: ""  # Missing first name
+#    last_name: "User"
+#    email: "testuser@example.com"
+#    phone: "1234567890"
+#    address1: "123 Test St"
+#    city: "Test City"
+#    state: "TS"
+#    zip: "12345"
+#    country: "USA"
+#    expected: "First name is required."
+#
+#  - test_id: TC_REG_004
+#    test_level: P2
+#    test_title: "Registration with invalid email format"
+#    password: "Pass123"
+#    confirm_password: "Pass123"
+#    first_name: "Autotest"
+#    last_name: "User"
+#    email: "invalid-email"
+#    phone: "1234567890"
+#    address1: "123 Test St"
+#    city: "Test City"
+#    state: "TS"
+#    zip: "12345"
+#    country: "USA"
+#    expected: "Please enter a valid email address."

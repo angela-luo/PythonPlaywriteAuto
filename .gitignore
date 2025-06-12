@@ -1,0 +1,60 @@
+# IDE and editor specific files
+.vscode/          # Visual Studio Code workspace settings
+.idea/            # JetBrains IDE (PyCharm, IntelliJ) config files
+*.suo             # Visual Studio user options
+*.user            # Visual Studio user-specific files
+*.pyc             # Python compiled files
+__pycache__/      # Python cache directory
+
+# Playwright specific
+**/playwright-report/  # Playwright HTML test reports
+**/test-results/       # Playwright test artifacts
+**/downloads/         # Playwright downloaded files
+**/output/            # Playwright trace outputs
+
+# Allure reports
+allure-report/     # Generated Allure HTML report
+allure-results/    # Allure raw test results
+reports/           # Common directory for test reports
+
+# Python environment and dependencies
+venv/             # Virtual environment
+.env              # Environment variables
+.env.local        # Local environment overrides
+*.env             # All environment files
+*.pyvenv          # Python virtual environment file
+
+# Dependency directories
+node_modules/     # Node.js dependencies (if using any JS with Playwright)
+.pnpm/            # PNPM package manager files
+.pytest_cache/    # Pytest cache directory
+.mypy_cache/      # Mypy type checker cache
+dist/             # Python package distribution
+build/            # Python build artifacts
+*.egg-info/       # Python package metadata
+
+# Logs and databases
+*.log             # Log files
+*.sqlite          # SQLite databases
+*.db              # Database files
+
+# OS generated files
+.DS_Store         # macOS folder attributes
+Thumbs.db         # Windows thumbnail cache
+ehthumbs.db       # Windows folder thumbnails
+Desktop.ini       # Windows folder customization
+
+# Testing artifacts
+*.pem             # Certificate files
+*.xml             # JUnit-style test reports (if generated)
+*.json            # Test data or report files
+geckodriver.log   # Firefox driver logs
+chromedriver.log  # Chrome driver logs
+
+# Playwright browsers (optional - depends on your setup)
+# If you want to version control browsers, remove these lines
+**/browsers/      # Playwright browser binaries
+
+
+# specific folder for keeping secrets
+old-scripts/

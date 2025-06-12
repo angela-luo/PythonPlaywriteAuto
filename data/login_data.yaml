@@ -1,0 +1,52 @@
+# File: data/login_data.yaml
+# Creator: Angel
+# Created: 2025-06-06
+# Description: Test data for login module
+
+- test_id: "TC_LOGIN_001"
+  test_title: "Valid login with correct credentials"
+  test_level: "P0"
+  username: "angel"
+  password: "123456"
+  expected: "Welcome Angel!"
+  is_positive: "true"
+
+#- test_id: "TC-LOGIN-002"
+#  test_title: "Valid login with a password containing special characters"
+#  test_level: "P1"
+#  username: "Sherry"
+#  password: "A123456!@#$%^&*()_+"
+#  expected: "Welcome Sherry!"
+#  is_positive: "true"
+
+- test_id: "TC-LOGIN-003"
+  test_title: "Invalid login with non-existent user"
+  test_level: "P1"
+  username: "invaliduser"
+  password: "password"
+  expected: "Login failed, please input correct username and password. "
+  is_positive: "false"
+
+#- test_id: "TC-LOGIN-004"
+#  test_title: "Invalid login with invalid password"
+#  test_level: "P1"
+#  username: "Sherry"
+#  password: "a123456!@#$%^&*()_+"
+#  expected: "Invalid username or password. Signon failed."
+#  is_positive: "false"
+
+#- test_id: "TC-LOGIN-005"
+#  test_title: "Invalid login with empty password"
+#  test_level: "P2"
+#  username: "j2ee"
+#  password: ""
+#  expected: "Please enter your username and password."
+#  is_positive: "false"
+#
+#- test_id: "TC-LOGIN-006"
+#  test_title: "Invalid login with SQL injection attempt"
+#  test_level: "P2"
+#  username: "' OR '1'='1"
+#  password: "anything"
+#  expected: "Invalid username or password. Signon failed."
+#  is_positive: "false"

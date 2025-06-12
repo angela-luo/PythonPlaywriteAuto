@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":3,"buildName":"WebAutoTestDemo » Smoke Test #3","buildUrl":"http://localhost:8080/job/WebAutoTestDemo/job/Smoke%20Test/3/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/WebAutoTestDemo/job/Smoke%20Test/3/allure"}]
