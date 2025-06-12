@@ -1,0 +1,417 @@
+2025-06-11 11:35:57,606 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:35:59,236 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:35:59,288 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 11:35:59,317 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:35:59,350 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 11:35:59,379 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:35:59,983 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:00,051 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 11:36:00,583 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 11:36:01,134 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 11:36:01,210 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 11:36:01,976 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:01,976 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:03,467 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:03,467 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:03,511 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:03,511 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:03,538 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:03,538 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:03,570 - LoginPage - INFO - In input[name='password'] input: A123456!@#$%^&*()_+
+2025-06-11 11:36:03,570 - LoginPage - INFO - In input[name='password'] input: A123456!@#$%^&*()_+
+2025-06-11 11:36:03,599 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:03,599 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:04,215 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:04,215 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:04,282 - LoginPage - INFO - Get element text: Welcome Sherry!
+2025-06-11 11:36:04,282 - LoginPage - INFO - Get element text: Welcome Sherry!
+2025-06-11 11:36:04,884 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 11:36:04,884 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 11:36:05,458 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 11:36:05,458 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 11:36:05,523 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 11:36:05,523 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 11:36:06,269 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:06,269 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:06,269 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:07,710 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:07,710 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:07,710 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:07,753 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 11:36:07,753 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 11:36:07,753 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 11:36:07,783 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:07,783 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:07,783 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:07,814 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 11:36:07,814 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 11:36:07,814 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 11:36:07,850 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:07,850 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:07,850 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:08,171 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:08,171 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:08,171 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:08,239 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:08,239 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:08,239 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:08,240 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 11:36:08,240 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 11:36:08,240 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 11:36:09,210 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:09,210 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:09,210 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:09,210 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:10,666 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:10,666 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:10,666 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:10,666 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:10,708 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:10,708 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:10,708 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:10,708 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 11:36:10,736 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:10,736 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:10,736 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:10,736 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:10,768 - LoginPage - INFO - In input[name='password'] input: a123456!@#$%^&*()_+
+2025-06-11 11:36:10,768 - LoginPage - INFO - In input[name='password'] input: a123456!@#$%^&*()_+
+2025-06-11 11:36:10,768 - LoginPage - INFO - In input[name='password'] input: a123456!@#$%^&*()_+
+2025-06-11 11:36:10,768 - LoginPage - INFO - In input[name='password'] input: a123456!@#$%^&*()_+
+2025-06-11 11:36:10,795 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:10,795 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:10,795 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:10,795 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:11,133 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:11,133 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:11,133 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:11,133 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:11,201 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:11,201 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:11,201 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:11,201 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 11:36:12,022 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:12,022 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:12,022 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:12,022 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:12,022 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:13,509 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:13,509 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:13,509 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:13,509 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:13,509 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:13,553 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 11:36:13,553 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 11:36:13,553 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 11:36:13,553 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 11:36:13,553 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 11:36:13,582 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:13,582 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:13,582 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:13,582 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:13,582 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:13,612 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 11:36:13,612 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 11:36:13,612 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 11:36:13,612 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 11:36:13,612 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 11:36:13,641 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:13,641 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:13,641 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:13,641 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:13,641 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:13,944 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:13,944 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:13,944 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:13,944 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:13,944 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 11:36:23,981 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 11:36:23,981 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 11:36:23,981 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 11:36:23,981 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 11:36:23,981 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:27,679 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,190 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,242 - LoginPage - INFO - In input[name='username'] input: autotest_66cb1615
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,272 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,305 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,333 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,913 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 11:36:28,981 - LoginPage - INFO - Get element text: Welcome Test!
+2025-06-11 16:03:31,922 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:03:33,519 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:03:33,565 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 16:03:33,585 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:03:33,607 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 16:03:33,627 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:03:34,211 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:03:34,259 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 16:03:34,855 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:03:35,429 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:03:35,478 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:29:17,656 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:19,297 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:19,351 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 16:29:19,371 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:19,390 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 16:29:19,405 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:20,002 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:29:20,049 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 16:29:20,654 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:29:21,218 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:29:21,275 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:29:21,898 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:21,898 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:23,429 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:23,429 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:23,463 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 16:29:23,463 - LoginPage - INFO - In input[name='username'] input: Sherry
+2025-06-11 16:29:23,481 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:23,481 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:23,499 - LoginPage - INFO - In input[name='password'] input: A123456!@#$%^&*()_+
+2025-06-11 16:29:23,499 - LoginPage - INFO - In input[name='password'] input: A123456!@#$%^&*()_+
+2025-06-11 16:29:23,517 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:23,517 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:24,100 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:29:24,100 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:29:24,152 - LoginPage - INFO - Get element text: Welcome Sherry!
+2025-06-11 16:29:24,152 - LoginPage - INFO - Get element text: Welcome Sherry!
+2025-06-11 16:29:24,766 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:29:24,766 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:29:25,790 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:29:25,790 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:29:25,839 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:29:25,839 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:29:26,467 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:26,467 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:26,467 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:28,044 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:28,044 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:28,044 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:28,079 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:29:28,079 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:29:28,079 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:29:28,098 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:28,098 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:28,098 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:28,117 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:29:28,117 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:29:28,117 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:29:28,133 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:28,133 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:28,133 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:28,480 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:28,480 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:28,480 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:28,528 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:29:28,528 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:29:28,528 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:29:28,529 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 16:29:28,529 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 16:29:28,529 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 16:29:29,339 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:29,339 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:29,339 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:29,339 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:29:30,884 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:30,884 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:30,884 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:30,884 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:29:30,919 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 16:29:30,919 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 16:29:30,919 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 16:29:30,919 - LoginPage - INFO - In input[name='username'] input: j2ee
+2025-06-11 16:29:30,936 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:30,936 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:30,936 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:30,936 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:29:30,954 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 16:29:30,954 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 16:29:30,954 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 16:29:30,954 - LoginPage - INFO - In input[name='password'] input: 
+2025-06-11 16:29:30,970 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:30,970 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:30,970 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:30,970 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:29:31,332 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:31,332 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:31,332 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:31,332 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:29:41,353 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 16:29:41,353 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 16:29:41,353 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 16:29:41,353 - LoginPage - INFO - Capture screenshot: login_error_TC-LOGIN-005
+2025-06-11 16:33:05,510 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:33:07,100 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:33:07,152 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 16:33:07,180 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:33:07,214 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 16:33:07,249 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:33:07,845 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:33:07,914 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 16:33:08,470 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:33:09,012 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:33:09,080 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:33:09,835 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:33:09,835 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:33:11,268 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:33:11,268 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:33:11,311 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:33:11,311 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:33:11,339 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:33:11,339 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:33:11,368 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:33:11,368 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:33:11,399 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:33:11,399 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:33:11,719 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:33:11,719 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:33:11,795 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:33:11,795 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:33:11,796 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 16:33:11,796 - LoginPage - INFO - Capture screenshot: login_failure_TC-LOGIN-003
+2025-06-11 16:40:00,565 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:02,204 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:02,258 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 16:40:02,286 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:02,319 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 16:40:02,349 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:02,956 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:40:03,032 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 16:40:03,577 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:40:04,189 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:40:04,256 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:40:04,982 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:04,982 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:06,425 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:06,425 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:06,465 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:40:06,465 - LoginPage - INFO - In input[name='username'] input: invaliduser
+2025-06-11 16:40:06,492 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:06,492 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:06,527 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:40:06,527 - LoginPage - INFO - In input[name='password'] input: password
+2025-06-11 16:40:06,554 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:06,554 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:06,892 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:40:06,892 - LoginPage - INFO - Wait for element: #Content ul.messages li (timeout: 10000ms)
+2025-06-11 16:40:06,962 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:40:06,962 - LoginPage - INFO - Get element text: Invalid username or password. Signon failed.
+2025-06-11 16:40:10,291 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:10,291 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:10,291 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:40:10,819 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:10,819 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:10,819 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:40:10,864 - LoginPage - INFO - In input[name='username'] input: Autotest_9b5aa6ba
+2025-06-11 16:40:10,864 - LoginPage - INFO - In input[name='username'] input: Autotest_9b5aa6ba
+2025-06-11 16:40:10,864 - LoginPage - INFO - In input[name='username'] input: Autotest_9b5aa6ba
+2025-06-11 16:40:10,892 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:10,892 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:10,892 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:40:10,921 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 16:40:10,921 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 16:40:10,921 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 16:40:10,950 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:10,950 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:10,950 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:40:11,518 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:40:11,518 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:40:11,518 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:40:11,583 - LoginPage - INFO - Get element text: Welcome Autotest_9b5aa6ba!
+2025-06-11 16:40:11,583 - LoginPage - INFO - Get element text: Welcome Autotest_9b5aa6ba!
+2025-06-11 16:40:11,583 - LoginPage - INFO - Get element text: Welcome Autotest_9b5aa6ba!
+2025-06-11 16:42:04,978 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:42:06,776 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:42:06,825 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 16:42:06,855 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:42:06,894 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 16:42:06,921 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:42:07,536 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:42:07,603 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 16:42:08,180 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 16:42:08,780 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 16:42:08,848 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 16:42:12,340 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:42:12,340 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 16:42:12,881 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:42:12,881 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 16:42:12,931 - LoginPage - INFO - In input[name='username'] input: Autotest_fc308c45
+2025-06-11 16:42:12,931 - LoginPage - INFO - In input[name='username'] input: Autotest_fc308c45
+2025-06-11 16:42:12,960 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:42:12,960 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 16:42:12,992 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 16:42:12,992 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 16:42:13,019 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:42:13,019 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 16:42:13,616 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:42:13,616 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 16:42:13,680 - LoginPage - INFO - Get element text: Welcome Autotest_fc308c45!
+2025-06-11 16:42:13,680 - LoginPage - INFO - Get element text: Welcome Autotest_fc308c45!
+2025-06-11 17:09:04,677 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 17:09:06,629 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 17:09:06,674 - LoginPage - INFO - In input[name='username'] input: angel
+2025-06-11 17:09:06,708 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 17:09:06,758 - LoginPage - INFO - In input[name='password'] input: 123456
+2025-06-11 17:09:06,793 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 17:09:07,442 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 17:09:07,539 - LoginPage - INFO - Get element text: Welcome Angel!
+2025-06-11 17:09:07,588 - LoginPage - INFO - Click element: a:has-text('Sign Out')
+2025-06-11 17:09:08,268 - LoginPage - INFO - Wait for element: a:has-text('Sign In') (timeout: 10000ms)
+2025-06-11 17:09:08,362 - LoginPage - INFO - Element a:has-text('Sign In') visibility: True
+2025-06-11 17:09:12,227 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 17:09:12,227 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-11 17:09:12,795 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 17:09:12,795 - LoginPage - INFO - Clear input[name='username']
+2025-06-11 17:09:12,861 - LoginPage - INFO - In input[name='username'] input: Autotest_69490788
+2025-06-11 17:09:12,861 - LoginPage - INFO - In input[name='username'] input: Autotest_69490788
+2025-06-11 17:09:12,893 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 17:09:12,893 - LoginPage - INFO - Clear input[name='password']
+2025-06-11 17:09:12,931 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 17:09:12,931 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-11 17:09:12,963 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 17:09:12,963 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-11 17:09:13,571 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 17:09:13,571 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-11 17:09:13,653 - LoginPage - INFO - Get element text: Welcome Autotest_69490788!
+2025-06-11 17:09:13,653 - LoginPage - INFO - Get element text: Welcome Autotest_69490788!

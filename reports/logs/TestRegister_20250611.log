@@ -1,0 +1,11 @@
+2025-06-11 11:09:16,354 - TestRegister - INFO - Starting test: REG_001 - Successful user registration
+2025-06-11 11:09:30,052 - TestRegister - INFO - Starting test: REG_002 - Registration with password mismatch
+2025-06-11 11:36:25,031 - TestRegister - INFO - Starting test: REG_001 - Successful user registration
+2025-06-11 11:36:29,654 - TestRegister - INFO - Starting test: REG_002 - Registration with password mismatch
+2025-06-11 16:40:07,639 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-11 16:40:11,583 - TestRegister - INFO - Login successful with new user: Autotest_9b5aa6ba
+2025-06-11 16:40:12,201 - TestRegister - INFO - Starting test: TC_REG_002 - Registration with password mismatch
+2025-06-11 16:42:09,564 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-11 16:42:13,680 - TestRegister - INFO - Login successful with new user: Autotest_fc308c45
+2025-06-11 17:09:08,973 - TestRegister - INFO - Starting test: TC_REG_001 - Successful user registration
+2025-06-11 17:09:13,653 - TestRegister - INFO - Login successful with new user: Autotest_69490788
