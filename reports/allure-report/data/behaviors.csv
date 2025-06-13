@@ -1,3 +1,2 @@
-"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"0","","0","User Registration module","1","0","Test Register","0"
-"0","","0","Login module","1","0","Test login","0"
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","User Registration module","Test Register","0","0","1","0","0"

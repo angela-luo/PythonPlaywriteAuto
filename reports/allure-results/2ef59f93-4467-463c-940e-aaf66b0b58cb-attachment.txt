@@ -1,14 +1,14 @@
 INFO - Starting test: TC_REG_001 - Successful user registration
 INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?newAccountForm=
-INFO - Registering user: Autotest_cbde0a5a
+INFO - Registering user: Autotest_2b1871d7
 INFO - Clear input[name='username']
-INFO - In input[name='username'] input: Autotest_cbde0a5a
+INFO - In input[name='username'] input: Autotest_2b1871d7
 INFO - Clear input[name='password']
 INFO - In input[name='password'] input: TestPass123
 INFO - Clear input[name='repeatedPassword']
 INFO - In input[name='repeatedPassword'] input: TestPass123
 INFO - Clear input[name='account.firstName']
-INFO - In input[name='account.firstName'] input: Autotest_cbde0a5a
+INFO - In input[name='account.firstName'] input: Autotest_2b1871d7
 INFO - Clear input[name='account.lastName']
 INFO - In input[name='account.lastName'] input: User
 INFO - Clear input[name='account.email']
@@ -27,19 +27,11 @@ INFO - Clear input[name='account.country']
 INFO - In input[name='account.country'] input: USA
 INFO - Click element: input[name='newAccount']
 INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
-INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
 INFO - Clear input[name='username']
-INFO - Clear input[name='username']
-INFO - In input[name='username'] input: Autotest_cbde0a5a
-INFO - In input[name='username'] input: Autotest_cbde0a5a
-INFO - Clear input[name='password']
+INFO - In input[name='username'] input: Autotest_2b1871d7
 INFO - Clear input[name='password']
 INFO - In input[name='password'] input: TestPass123
-INFO - In input[name='password'] input: TestPass123
-INFO - Click element: input[name='signon']
 INFO - Click element: input[name='signon']
 INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
-INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
-INFO - Get element text: Welcome Autotest_cbde0a5a!
-INFO - Get element text: Welcome Autotest_cbde0a5a!
-INFO - Login successful with new user: Autotest_cbde0a5a
+INFO - Get element text: Welcome Autotest_2b1871d7!
+INFO - Login successful with new user: Autotest_2b1871d7

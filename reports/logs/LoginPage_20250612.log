@@ -463,3 +463,67 @@
 2025-06-12 16:03:52,335 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
 2025-06-12 16:03:52,411 - LoginPage - INFO - Get element text: Welcome Autotest_cbde0a5a!
 2025-06-12 16:03:52,411 - LoginPage - INFO - Get element text: Welcome Autotest_cbde0a5a!
+2025-06-12 18:32:39,418 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 18:32:39,956 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 18:32:39,995 - LoginPage - INFO - In input[name='username'] input: Autotest_f0e4aa9e
+2025-06-12 18:32:40,022 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 18:32:40,049 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 18:32:40,079 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 18:32:40,676 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 18:32:40,740 - LoginPage - INFO - Get element text: Welcome Autotest_f0e4aa9e!
+2025-06-12 19:04:10,803 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:04:13,178 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:04:13,219 - LoginPage - INFO - In input[name='username'] input: Autotest_3bbcb349
+2025-06-12 19:04:13,246 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:04:13,272 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:04:13,299 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:04:16,642 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:04:16,704 - LoginPage - INFO - Get element text: Welcome Autotest_3bbcb349!
+2025-06-12 19:11:58,681 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:11:59,294 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:11:59,332 - LoginPage - INFO - In input[name='username'] input: Autotest_d3dbdd65
+2025-06-12 19:11:59,362 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:11:59,389 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:11:59,414 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:12:00,055 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:12:00,128 - LoginPage - INFO - Get element text: Welcome Autotest_d3dbdd65!
+2025-06-12 19:18:47,618 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:18:48,135 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:18:48,173 - LoginPage - INFO - In input[name='username'] input: Autotest_6fe99f17
+2025-06-12 19:18:48,199 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:18:48,226 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:18:48,256 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:18:48,818 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:18:48,884 - LoginPage - INFO - Get element text: Welcome Autotest_6fe99f17!
+2025-06-12 19:20:56,952 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:20:57,474 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:20:57,512 - LoginPage - INFO - In input[name='username'] input: Autotest_110f3d4d
+2025-06-12 19:20:57,538 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:20:57,573 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:20:57,599 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:20:58,147 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:20:58,212 - LoginPage - INFO - Get element text: Welcome Autotest_110f3d4d!
+2025-06-12 19:30:58,814 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:30:59,436 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:30:59,478 - LoginPage - INFO - In input[name='username'] input: Autotest_f2d2eed8
+2025-06-12 19:30:59,506 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:30:59,533 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:30:59,560 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:31:00,133 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:31:00,197 - LoginPage - INFO - Get element text: Welcome Autotest_f2d2eed8!
+2025-06-12 19:42:41,385 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 19:42:41,938 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 19:42:41,978 - LoginPage - INFO - In input[name='username'] input: Autotest_4ff26b79
+2025-06-12 19:42:42,022 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 19:42:42,061 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 19:42:42,095 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 19:42:42,676 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 19:42:42,742 - LoginPage - INFO - Get element text: Welcome Autotest_4ff26b79!
+2025-06-12 20:22:14,241 - LoginPage - INFO - Navigate to: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-06-12 20:22:14,743 - LoginPage - INFO - Clear input[name='username']
+2025-06-12 20:22:14,780 - LoginPage - INFO - In input[name='username'] input: Autotest_2b1871d7
+2025-06-12 20:22:14,813 - LoginPage - INFO - Clear input[name='password']
+2025-06-12 20:22:14,840 - LoginPage - INFO - In input[name='password'] input: TestPass123
+2025-06-12 20:22:14,869 - LoginPage - INFO - Click element: input[name='signon']
+2025-06-12 20:22:15,409 - LoginPage - INFO - Wait for element: #WelcomeContent (timeout: 10000ms)
+2025-06-12 20:22:15,473 - LoginPage - INFO - Get element text: Welcome Autotest_2b1871d7!

@@ -1,3 +1,2 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Test user registration with various data","3923","Successful user registration","tests","Thu Jun 12 16:03:48 CST 2025","passed","Thu Jun 12 16:03:52 CST 2025","TestRegister","test_register","",""
-"Test priority: P0","3684","TC_LOGIN_001: Valid login with correct credentials","tests","Thu Jun 12 16:03:44 CST 2025","passed","Thu Jun 12 16:03:48 CST 2025","TestLogin","test_login","",""
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 12 20:22:11 CST 2025","Thu Jun 12 20:22:15 CST 2025","3823","tests","test_register","TestRegister","","","Successful user registration","Test user registration with various data"
